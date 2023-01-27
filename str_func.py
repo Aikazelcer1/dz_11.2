@@ -5,3 +5,4 @@ def initials(name):
     for word in words:
         result += word[0].upper()
     return result
+a
